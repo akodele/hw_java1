@@ -12,5 +12,8 @@ public class Main {
             b=true;
         }
         System.out.println("Условие выполнено:"+b);
+
+        var0=Integer.MAX_VALUE+1;
+        System.out.println(var0);
     }
 }
